@@ -79,7 +79,8 @@ class PsRbm
                 'user' => [
                     'createdFromIp' => $data['ipAddress'],
                     'email' => $this->getEmail()
-                ]
+                ],
+                'moduleTosUrl' => $data['moduleTosUrl']
             ]
         ];
     }
