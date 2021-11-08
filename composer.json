@@ -1,5 +1,5 @@
 {
-    "name": "prestashop/prestashop-rbm-installer",
+    "name": "khanhmas/prestashop-rbm-installer",
     "type": "library",
     "description": "Utility package to retrieve the rbm module context",
     "license": "MIT",
