@@ -2,6 +2,8 @@
 
 namespace PrestaShop\PsRbmInstaller\Installer\Facade;
 
+use PrestaShop\PrestaShop\Core\Addon\Module\ModuleManagerBuilder;
+
 
 class PsRbm
 {
